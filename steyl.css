@@ -1,0 +1,17 @@
+*{
+}
+.navbar ul{
+    display: flex;
+    justify-content:center;
+    gap: 100px;
+}
+.navbar{
+    
+}
+.img{
+    display: flex;
+    justify-content: flex-start;
+}
+.navbar h1{
+    font-size: 80px;
+}
